@@ -1,0 +1,186 @@
+[
+  {
+    "": "NO.",
+    "__1": "ROLL NO.",
+    "__2": "NAME OF THE STUDENT",
+    "__3": "QUALIFICATION",
+    "__4": "SPECIALIZATION",
+    "__5": "UNIVERSITY / INSTITUTION"
+  },
+  {
+    "": 1,
+    "__1": 8800,
+    "__2": "CHAURASIYA ADITYA PRAVIN",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Computer Science - Artificial Intelligence",
+    "__5": "NYU Tandon School of Engineering, USA"
+  },
+  {
+    "": 2,
+    "__1": 8813,
+    "__2": "M. JYOTHIS SHAJAN",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Business Information Systems",
+    "__5": "Monash University, Australia"
+  },
+  {
+    "": 3,
+    "__1": 8821,
+    "__2": "ROCKY RENDELL PADU",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Computer Science - Artificial Intelligence",
+    "__5": "Binghamton University (SUNY), USA"
+  },
+  {
+    "": 4,
+    "__1": 8823,
+    "__2": "PALAK JOSEPH LEENA",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Inovation Management & Entreprenuership Programme",
+    "__5": "Brown University, USA"
+  },
+  {
+    "": 5,
+    "__1": 8825,
+    "__2": "PATIL JAYDEEP TUSHAR",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Computer Science - Artificial Intelligence",
+    "__5": "Arizona State University at Tempe (USA)"
+  },
+  {
+    "": 6,
+    "__1": 8830,
+    "__2": "PINTO ANDREA MELWYN",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Computer Science - Artificial Intelligence",
+    "__5": "Northeastern University at Boston"
+  },
+  {
+    "": 7,
+    "__1": 8833,
+    "__2": "RANGUCHA YASH B.",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Data Analytics in Computer Systems",
+    "__5": "Illinois Institute of Technology (IIT), Chicago"
+  },
+  {
+    "": 8,
+    "__1": 8834,
+    "__2": "RANGWALA MUFADDAL JUZAIR",
+    "__3": "Master of Science (M.Sc.)",
+    "__4": "Computer Science & Engineering",
+    "__5": "Santa Clara University"
+  },
+  {
+    "": 9,
+    "__1": 8844,
+    "__2": "SINGH AMANDEEP JASWINDER",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Computer Science - Project",
+    "__5": "Lakehead University, Ontario (Canada)"
+  },
+  {
+    "": 10,
+    "__1": 8845,
+    "__2": "SONI HARSH PRAVIN",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Computer Science - Project",
+    "__5": "Lakehead University, Ontario (Canada)"
+  },
+  {
+    "": 11,
+    "__1": 8847,
+    "__2": "THAKOR SPANDAN SANDIP",
+    "__3": "Master of Science (M.Sc.)",
+    "__4": "Computing Science in Multimedia",
+    "__5": "University of Alberta, Canada"
+  },
+  {
+    "": 12,
+    "__1": 8851,
+    "__2": "YERUNKAR RUTIK RAJENDRA",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Computer Science - Artificial Intelligence",
+    "__5": "Oregon State University, USA"
+  },
+  {
+    "": 13,
+    "__1": 9069,
+    "__2": "CORREIA BLAISE SIMON",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Computer Science - Artificial Intelligence",
+    "__5": "Illinois Institute of Technology (IIT), Chicago"
+  },
+  {
+    "": 14,
+    "__1": 9071,
+    "__2": "JOSHI ATHARVA ATUL",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Computer Science - Artificial Intelligence",
+    "__5": "Syracuse University, USA"
+  },
+  {
+    "": 15,
+    "__1": 8812,
+    "__2": "KSHATRIYA SIDDHESH VIKAS",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Computer Science - Artificial Intelligence",
+    "__5": "Illinois Institute of Technology (IIT), Chicago"
+  },
+  {
+    "": 16,
+    "__1": 8814,
+    "__2": "MACHADO NEIL DILIP",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Cyber Security",
+    "__5": "California State University (CSU)"
+  },
+  {
+    "": 17,
+    "__1": 8822,
+    "__2": "PAKAHRE SHALOM RICHARD",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Robotics & Autonomous Systems (Systems Engineering)",
+    "__5": "Arizona State University at Tempe (USA)"
+  },
+  {
+    "": 18,
+    "__1": 9034,
+    "__2": "KARKERA NIRMIT SEKAR",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Computer Engineering",
+    "__5": "Virginia Tech (VT)"
+  },
+  {
+    "": 19,
+    "__1": 8848,
+    "__2": "T. SHARON SHAJAN",
+    "__3": "Professional Programme",
+    "__4": "Data Analytics",
+    "__5": "National Institute of Information Technology"
+  },
+  {
+    "": 20,
+    "__1": 8818,
+    "__2": "MINDE ADWAIT NITIN",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Management Information Systems (MIS)",
+    "__5": "The University of Arizona"
+  },
+  {
+    "": 21,
+    "__1": 8804,
+    "__2": "DSOUZA SHERWIN RAKESH",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Management Information Systems (MIS)",
+    "__5": "The University of Arizona"
+  },
+  {
+    "": 22,
+    "__1": 8796,
+    "__2": "BHATTACHARJEE ABHISHEK S.",
+    "__3": "Master of Science (M.S.)",
+    "__4": "Computer Science (Management)",
+    "__5": "The University of Queensland (Australia)"
+  }
+]
