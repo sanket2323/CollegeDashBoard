@@ -1,12 +1,5 @@
 [
-  {
-    "": "NO.",
-    "__1": "ROLL NO.",
-    "__2": "NAME OF THE STUDENT",
-    "__3": "QUALIFICATION",
-    "__4": "SPECIALIZATION",
-    "__5": "UNIVERSITY / INSTITUTION"
-  },
+
   {
     "": 1,
     "__1": 8800,
@@ -155,7 +148,7 @@
     "": 19,
     "__1": 8848,
     "__2": "T. SHARON SHAJAN",
-    "__3": "Professional Programme",
+    "__3": "Master of Science (M.S.)",
     "__4": "Data Analytics",
     "__5": "National Institute of Information Technology"
   },

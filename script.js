@@ -42,12 +42,12 @@ fetch("data.json")
       const row = document.createElement("tr");
 
       row.innerHTML = `
-                <td>${student[""]}</td>
-                <td>${student["__1"]}</td>
-                <td>${student["__2"]}</td>
-                <td>${student["__3"]}</td>
-                <td>${student["__4"]}</td>
-                <td>${student["__5"]}</td>
+                <td class= "data-list">${student[""]}</td>
+                <td class= "data-list">${student["__1"]}</td>
+                <td class= "data-list"> ${student["__2"]}</td>
+                <td class= "data-list">${student["__3"]}</td>
+                <td class= "data-list">${student["__4"]}</td>
+                <td class= "data-list">${student["__5"]}</td>
             `;
 
       tableBody.appendChild(row);
